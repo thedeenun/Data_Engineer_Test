@@ -46,4 +46,4 @@ size_guide_dict['Foot Length Fit (inch)'] = size_guide_dict.pop('Foot Length Fit
 size_guide_dict['Foot Length Fit (cm)'] = cm
 
 size_guide_df = pd.DataFrame(size_guide_dict)
-size_guide_df.to_csv('./data/poizon_size_guide.csv', index=False)
+size_guide_df.to_csv('./data/poizon_size-guide.csv', index=False)
