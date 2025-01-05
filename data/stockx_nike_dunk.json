@@ -1,0 +1,1098 @@
+{
+    "product": {
+        "id": "5e6a1e57-1c7d-435a-82bd-5666a13560fe",
+        "brand": "Nike",
+        "model": "Nike Dunk Low Retro",
+        "title": "Nike Dunk Low Retro White Black Panda",
+        "type": "sneakers",
+        "description": "From the school-spirited College Colors Program to the vibrant Nike CO.JP collection, Nike Dunks have seen many colorways since the design\u2019s inception in 1985. But with each new colorway, the Dunk\u2019s classic color-blocking has remained in some capacity. Nike put its timeless color-blocking to work with the Nike Dunk Low Retro White Black.\n<br>\n<br>\nThe upper Nike Dunk Low Retro White Black is constructed of white leather with black leather overlays and Swooshes. Classic Nike branding is featured on the nylon tongue, nodding to traditional Dunk design elements. A white midsole and black outsole complete the design.\n<br>\n<br>\nThe Nike Dunk Low Retro White Black released in January of 2021 and retailed for $100.\n<br>\n<br>\nTo shop all Nike Dunks, <a href=\"https://stockx.com/nike/dunk\">click here.</a>\n",
+        "gender": "men",
+        "style": "DD1391-100",
+        "colorway": "White/Black",
+        "retail price": "$115",
+        "release date": "2021-03-10",
+        "imageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Retro-White-Black-2021-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1633027409"
+    },
+    "size_by_price": [
+        {
+            "id": "55da4110-5983-439f-9ae4-d7d054f67723",
+            "hidden": false,
+            "group": null,
+            "traits": {
+                "size": "3.5"
+            },
+            "gtins": [],
+            "sizeChart": {
+                "baseSize": "3.5",
+                "baseType": "us m",
+                "displayOptions": [
+                    {
+                        "size": "US M 3.5",
+                        "type": "us m"
+                    },
+                    {
+                        "size": "UK 3",
+                        "type": "uk"
+                    },
+                    {
+                        "size": "CM 22.5",
+                        "type": "cm"
+                    },
+                    {
+                        "size": "KR 225",
+                        "type": "kr"
+                    },
+                    {
+                        "size": "EU 35.5",
+                        "type": "eu"
+                    },
+                    {
+                        "size": "US W 5",
+                        "type": "us w"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "8f97fc3d-245b-485a-b262-f965ca98bd8e",
+            "hidden": false,
+            "group": null,
+            "traits": {
+                "size": "4"
+            },
+            "gtins": [],
+            "sizeChart": {
+                "baseSize": "4",
+                "baseType": "us m",
+                "displayOptions": [
+                    {
+                        "size": "US M 4",
+                        "type": "us m"
+                    },
+                    {
+                        "size": "UK 3.5",
+                        "type": "uk"
+                    },
+                    {
+                        "size": "CM 23",
+                        "type": "cm"
+                    },
+                    {
+                        "size": "KR 230",
+                        "type": "kr"
+                    },
+                    {
+                        "size": "EU 36",
+                        "type": "eu"
+                    },
+                    {
+                        "size": "US W 5.5",
+                        "type": "us w"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "49a38ddb-b69d-4a1e-9f9d-21b0007960e0",
+            "hidden": false,
+            "group": null,
+            "traits": {
+                "size": "4.5"
+            },
+            "gtins": [],
+            "sizeChart": {
+                "baseSize": "4.5",
+                "baseType": "us m",
+                "displayOptions": [
+                    {
+                        "size": "US M 4.5",
+                        "type": "us m"
+                    },
+                    {
+                        "size": "UK 4",
+                        "type": "uk"
+                    },
+                    {
+                        "size": "CM 23.5 (US M 4.5)",
+                        "type": "cm"
+                    },
+                    {
+                        "size": "KR 235 (US M 4.5)",
+                        "type": "kr"
+                    },
+                    {
+                        "size": "EU 36.5",
+                        "type": "eu"
+                    },
+                    {
+                        "size": "US W 6",
+                        "type": "us w"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "e04a5c69-0ab6-4d20-a6b3-13d08436a13c",
+            "hidden": false,
+            "group": null,
+            "traits": {
+                "size": "5"
+            },
+            "gtins": [
+                {
+                    "type": "UPC",
+                    "identifier": "194502875966"
+                }
+            ],
+            "sizeChart": {
+                "baseSize": "5",
+                "baseType": "us m",
+                "displayOptions": [
+                    {
+                        "size": "US M 5",
+                        "type": "us m"
+                    },
+                    {
+                        "size": "UK 4.5",
+                        "type": "uk"
+                    },
+                    {
+                        "size": "CM 23.5 (US M 5)",
+                        "type": "cm"
+                    },
+                    {
+                        "size": "KR 235 (US M 5)",
+                        "type": "kr"
+                    },
+                    {
+                        "size": "EU 37.5",
+                        "type": "eu"
+                    },
+                    {
+                        "size": "US W 6.5",
+                        "type": "us w"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "42888997-a1f0-4115-a590-0e51d2efdf01",
+            "hidden": false,
+            "group": null,
+            "traits": {
+                "size": "5.5"
+            },
+            "gtins": [],
+            "sizeChart": {
+                "baseSize": "5.5",
+                "baseType": "us m",
+                "displayOptions": [
+                    {
+                        "size": "US M 5.5",
+                        "type": "us m"
+                    },
+                    {
+                        "size": "UK 5",
+                        "type": "uk"
+                    },
+                    {
+                        "size": "CM 24 (US M 5.5)",
+                        "type": "cm"
+                    },
+                    {
+                        "size": "KR 240 (US M 5.5)",
+                        "type": "kr"
+                    },
+                    {
+                        "size": "EU 38",
+                        "type": "eu"
+                    },
+                    {
+                        "size": "US W 7",
+                        "type": "us w"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "0009c909-6fa3-4a38-9920-43eaa7a7fe46",
+            "hidden": false,
+            "group": null,
+            "traits": {
+                "size": "6"
+            },
+            "gtins": [
+                {
+                    "type": "ITF-14",
+                    "identifier": "00194502875980"
+                },
+                {
+                    "type": "UPC",
+                    "identifier": "194502875980"
+                }
+            ],
+            "sizeChart": {
+                "baseSize": "6",
+                "baseType": "us m",
+                "displayOptions": [
+                    {
+                        "size": "US M 6",
+                        "type": "us m"
+                    },
+                    {
+                        "size": "UK 5.5",
+                        "type": "uk"
+                    },
+                    {
+                        "size": "CM 24 (US M 6)",
+                        "type": "cm"
+                    },
+                    {
+                        "size": "KR 240 (US M 6)",
+                        "type": "kr"
+                    },
+                    {
+                        "size": "EU 38.5",
+                        "type": "eu"
+                    },
+                    {
+                        "size": "US W 7.5",
+                        "type": "us w"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "f6e4995b-0bdf-477f-b757-47b79ffa22b3",
+            "hidden": false,
+            "group": null,
+            "traits": {
+                "size": "6.5"
+            },
+            "gtins": [
+                {
+                    "type": "ITF-14",
+                    "identifier": "00194502875997"
+                },
+                {
+                    "type": "UPC",
+                    "identifier": "194502875997"
+                }
+            ],
+            "sizeChart": {
+                "baseSize": "6.5",
+                "baseType": "us m",
+                "displayOptions": [
+                    {
+                        "size": "US M 6.5",
+                        "type": "us m"
+                    },
+                    {
+                        "size": "UK 6 (EU 39)",
+                        "type": "uk"
+                    },
+                    {
+                        "size": "CM 24.5",
+                        "type": "cm"
+                    },
+                    {
+                        "size": "KR 245",
+                        "type": "kr"
+                    },
+                    {
+                        "size": "EU 39",
+                        "type": "eu"
+                    },
+                    {
+                        "size": "US W 8",
+                        "type": "us w"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "95a26e09-0c04-4fdc-b8e0-36342c260871",
+            "hidden": false,
+            "group": null,
+            "traits": {
+                "size": "7"
+            },
+            "gtins": [
+                {
+                    "type": "ITF-14",
+                    "identifier": "00194502876000"
+                },
+                {
+                    "type": "UPC",
+                    "identifier": "194502876000"
+                },
+                {
+                    "type": "EAN-13",
+                    "identifier": "2409300000655"
+                }
+            ],
+            "sizeChart": {
+                "baseSize": "7",
+                "baseType": "us m",
+                "displayOptions": [
+                    {
+                        "size": "US M 7",
+                        "type": "us m"
+                    },
+                    {
+                        "size": "UK 6 (EU 40)",
+                        "type": "uk"
+                    },
+                    {
+                        "size": "CM 25",
+                        "type": "cm"
+                    },
+                    {
+                        "size": "KR 250",
+                        "type": "kr"
+                    },
+                    {
+                        "size": "EU 40",
+                        "type": "eu"
+                    },
+                    {
+                        "size": "US W 8.5",
+                        "type": "us w"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "0654bcf7-895c-47b2-baff-9940e34f8556",
+            "hidden": false,
+            "group": null,
+            "traits": {
+                "size": "7.5"
+            },
+            "gtins": [
+                {
+                    "type": "UPC",
+                    "identifier": "194502876017"
+                },
+                {
+                    "type": "ITF-14",
+                    "identifier": "00194502876017"
+                },
+                {
+                    "type": "EAN-13",
+                    "identifier": "2409300000662"
+                }
+            ],
+            "sizeChart": {
+                "baseSize": "7.5",
+                "baseType": "us m",
+                "displayOptions": [
+                    {
+                        "size": "US M 7.5",
+                        "type": "us m"
+                    },
+                    {
+                        "size": "UK 6.5",
+                        "type": "uk"
+                    },
+                    {
+                        "size": "CM 25.5",
+                        "type": "cm"
+                    },
+                    {
+                        "size": "KR 255",
+                        "type": "kr"
+                    },
+                    {
+                        "size": "EU 40.5",
+                        "type": "eu"
+                    },
+                    {
+                        "size": "US W 9",
+                        "type": "us w"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "24f67f42-1da8-4fdd-87da-f491f8875185",
+            "hidden": false,
+            "group": null,
+            "traits": {
+                "size": "8"
+            },
+            "gtins": [
+                {
+                    "type": "ITF-14",
+                    "identifier": "00194502876024"
+                },
+                {
+                    "type": "EAN-13",
+                    "identifier": "2100000318698"
+                },
+                {
+                    "type": "UPC",
+                    "identifier": "194502876024"
+                },
+                {
+                    "type": "GTIN-8",
+                    "identifier": "63336276"
+                }
+            ],
+            "sizeChart": {
+                "baseSize": "8",
+                "baseType": "us m",
+                "displayOptions": [
+                    {
+                        "size": "US M 8",
+                        "type": "us m"
+                    },
+                    {
+                        "size": "UK 7",
+                        "type": "uk"
+                    },
+                    {
+                        "size": "CM 26",
+                        "type": "cm"
+                    },
+                    {
+                        "size": "KR 260",
+                        "type": "kr"
+                    },
+                    {
+                        "size": "EU 41",
+                        "type": "eu"
+                    },
+                    {
+                        "size": "US W 9.5",
+                        "type": "us w"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "c9c459e6-0de4-4432-aba5-bcdc09f6b6ee",
+            "hidden": false,
+            "group": null,
+            "traits": {
+                "size": "8.5"
+            },
+            "gtins": [
+                {
+                    "type": "ITF-14",
+                    "identifier": "00194502876031"
+                },
+                {
+                    "type": "UPC",
+                    "identifier": "194502876031"
+                },
+                {
+                    "type": "EAN-13",
+                    "identifier": "2409300000686"
+                }
+            ],
+            "sizeChart": {
+                "baseSize": "8.5",
+                "baseType": "us m",
+                "displayOptions": [
+                    {
+                        "size": "US M 8.5",
+                        "type": "us m"
+                    },
+                    {
+                        "size": "UK 7.5",
+                        "type": "uk"
+                    },
+                    {
+                        "size": "CM 26.5",
+                        "type": "cm"
+                    },
+                    {
+                        "size": "KR 265",
+                        "type": "kr"
+                    },
+                    {
+                        "size": "EU 42",
+                        "type": "eu"
+                    },
+                    {
+                        "size": "US W 10",
+                        "type": "us w"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "a2ea632e-b87a-46a1-b35d-739b8050fdf2",
+            "hidden": false,
+            "group": null,
+            "traits": {
+                "size": "9"
+            },
+            "gtins": [
+                {
+                    "type": "ITF-14",
+                    "identifier": "00194502876048"
+                },
+                {
+                    "type": "UPC",
+                    "identifier": "194502876048"
+                },
+                {
+                    "type": "EAN-13",
+                    "identifier": "2409300000693"
+                }
+            ],
+            "sizeChart": {
+                "baseSize": "9",
+                "baseType": "us m",
+                "displayOptions": [
+                    {
+                        "size": "US M 9",
+                        "type": "us m"
+                    },
+                    {
+                        "size": "UK 8",
+                        "type": "uk"
+                    },
+                    {
+                        "size": "CM 27",
+                        "type": "cm"
+                    },
+                    {
+                        "size": "KR 270",
+                        "type": "kr"
+                    },
+                    {
+                        "size": "EU 42.5",
+                        "type": "eu"
+                    },
+                    {
+                        "size": "US W 10.5",
+                        "type": "us w"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "6ac30e67-8a53-4f5f-b268-d65f57ee1003",
+            "hidden": false,
+            "group": null,
+            "traits": {
+                "size": "9.5"
+            },
+            "gtins": [
+                {
+                    "type": "ITF-14",
+                    "identifier": "00194502876055"
+                },
+                {
+                    "type": "UPC",
+                    "identifier": "194502876055"
+                },
+                {
+                    "type": "EAN-13",
+                    "identifier": "2460001649697"
+                }
+            ],
+            "sizeChart": {
+                "baseSize": "9.5",
+                "baseType": "us m",
+                "displayOptions": [
+                    {
+                        "size": "US M 9.5",
+                        "type": "us m"
+                    },
+                    {
+                        "size": "UK 8.5",
+                        "type": "uk"
+                    },
+                    {
+                        "size": "CM 27.5",
+                        "type": "cm"
+                    },
+                    {
+                        "size": "KR 275",
+                        "type": "kr"
+                    },
+                    {
+                        "size": "EU 43",
+                        "type": "eu"
+                    },
+                    {
+                        "size": "US W 11",
+                        "type": "us w"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "65fb1eaf-7e2c-4f96-8f9d-74e93b4a36f4",
+            "hidden": false,
+            "group": null,
+            "traits": {
+                "size": "10"
+            },
+            "gtins": [
+                {
+                    "type": "UPC",
+                    "identifier": "194502876062"
+                },
+                {
+                    "type": "ITF-14",
+                    "identifier": "00194502876062"
+                },
+                {
+                    "type": "EAN-13",
+                    "identifier": "2409300000716"
+                }
+            ],
+            "sizeChart": {
+                "baseSize": "10",
+                "baseType": "us m",
+                "displayOptions": [
+                    {
+                        "size": "US M 10",
+                        "type": "us m"
+                    },
+                    {
+                        "size": "UK 9",
+                        "type": "uk"
+                    },
+                    {
+                        "size": "CM 28",
+                        "type": "cm"
+                    },
+                    {
+                        "size": "KR 280",
+                        "type": "kr"
+                    },
+                    {
+                        "size": "EU 44",
+                        "type": "eu"
+                    },
+                    {
+                        "size": "US W 11.5",
+                        "type": "us w"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "b208e557-0a94-4012-a640-533ce10fee9a",
+            "hidden": false,
+            "group": null,
+            "traits": {
+                "size": "10.5"
+            },
+            "gtins": [
+                {
+                    "type": "EAN-13",
+                    "identifier": "2409300000723"
+                },
+                {
+                    "type": "UPC",
+                    "identifier": "194502876079"
+                },
+                {
+                    "type": "ITF-14",
+                    "identifier": "00194502876079"
+                }
+            ],
+            "sizeChart": {
+                "baseSize": "10.5",
+                "baseType": "us m",
+                "displayOptions": [
+                    {
+                        "size": "US M 10.5",
+                        "type": "us m"
+                    },
+                    {
+                        "size": "UK 9.5",
+                        "type": "uk"
+                    },
+                    {
+                        "size": "CM 28.5",
+                        "type": "cm"
+                    },
+                    {
+                        "size": "KR 285",
+                        "type": "kr"
+                    },
+                    {
+                        "size": "EU 44.5",
+                        "type": "eu"
+                    },
+                    {
+                        "size": "US W 12",
+                        "type": "us w"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "01cac555-be33-4953-9f2d-b2ad8ac6d8d0",
+            "hidden": false,
+            "group": null,
+            "traits": {
+                "size": "11"
+            },
+            "gtins": [
+                {
+                    "type": "ITF-14",
+                    "identifier": "00194502876086"
+                },
+                {
+                    "type": "UPC",
+                    "identifier": "194502876086"
+                },
+                {
+                    "type": "EAN-13",
+                    "identifier": "2409300000730"
+                }
+            ],
+            "sizeChart": {
+                "baseSize": "11",
+                "baseType": "us m",
+                "displayOptions": [
+                    {
+                        "size": "US M 11",
+                        "type": "us m"
+                    },
+                    {
+                        "size": "UK 10",
+                        "type": "uk"
+                    },
+                    {
+                        "size": "CM 29",
+                        "type": "cm"
+                    },
+                    {
+                        "size": "KR 290",
+                        "type": "kr"
+                    },
+                    {
+                        "size": "EU 45",
+                        "type": "eu"
+                    },
+                    {
+                        "size": "US W 12.5",
+                        "type": "us w"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "29b377fd-37b0-4e5f-b751-42264fbbf757",
+            "hidden": false,
+            "group": null,
+            "traits": {
+                "size": "11.5"
+            },
+            "gtins": [
+                {
+                    "type": "ITF-14",
+                    "identifier": "00194502876093"
+                },
+                {
+                    "type": "UPC",
+                    "identifier": "194502876093"
+                },
+                {
+                    "type": "EAN-13",
+                    "identifier": "0194502876093"
+                }
+            ],
+            "sizeChart": {
+                "baseSize": "11.5",
+                "baseType": "us m",
+                "displayOptions": [
+                    {
+                        "size": "US M 11.5",
+                        "type": "us m"
+                    },
+                    {
+                        "size": "UK 10.5",
+                        "type": "uk"
+                    },
+                    {
+                        "size": "CM 29.5",
+                        "type": "cm"
+                    },
+                    {
+                        "size": "KR 295",
+                        "type": "kr"
+                    },
+                    {
+                        "size": "EU 45.5",
+                        "type": "eu"
+                    },
+                    {
+                        "size": "US W 13",
+                        "type": "us w"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "bd020a9c-dee0-44f3-bd6b-6be301107d7d",
+            "hidden": false,
+            "group": null,
+            "traits": {
+                "size": "12"
+            },
+            "gtins": [
+                {
+                    "type": "UPC",
+                    "identifier": "194502876109"
+                },
+                {
+                    "type": "ITF-14",
+                    "identifier": "00194502876109"
+                },
+                {
+                    "type": "EAN-13",
+                    "identifier": "2460001649741"
+                }
+            ],
+            "sizeChart": {
+                "baseSize": "12",
+                "baseType": "us m",
+                "displayOptions": [
+                    {
+                        "size": "US M 12",
+                        "type": "us m"
+                    },
+                    {
+                        "size": "UK 11",
+                        "type": "uk"
+                    },
+                    {
+                        "size": "CM 30",
+                        "type": "cm"
+                    },
+                    {
+                        "size": "KR 300",
+                        "type": "kr"
+                    },
+                    {
+                        "size": "EU 46",
+                        "type": "eu"
+                    },
+                    {
+                        "size": "US W 13.5",
+                        "type": "us w"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "854bf93f-c6f3-47e7-b36c-4e718d62bd58",
+            "hidden": false,
+            "group": null,
+            "traits": {
+                "size": "12.5"
+            },
+            "gtins": [
+                {
+                    "type": "ITF-14",
+                    "identifier": "00194502876116"
+                },
+                {
+                    "type": "UPC",
+                    "identifier": "194502876116"
+                },
+                {
+                    "type": "EAN-13",
+                    "identifier": "0194502876116"
+                }
+            ],
+            "sizeChart": {
+                "baseSize": "12.5",
+                "baseType": "us m",
+                "displayOptions": [
+                    {
+                        "size": "US M 12.5",
+                        "type": "us m"
+                    },
+                    {
+                        "size": "UK 11.5",
+                        "type": "uk"
+                    },
+                    {
+                        "size": "CM 30.5",
+                        "type": "cm"
+                    },
+                    {
+                        "size": "KR 305",
+                        "type": "kr"
+                    },
+                    {
+                        "size": "EU 47",
+                        "type": "eu"
+                    },
+                    {
+                        "size": "US W 14",
+                        "type": "us w"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "b9ce0997-236c-4e8c-baff-30c019a12f4e",
+            "hidden": false,
+            "group": null,
+            "traits": {
+                "size": "13"
+            },
+            "gtins": [
+                {
+                    "type": "GTIN-8",
+                    "identifier": "59302223"
+                },
+                {
+                    "type": "UPC",
+                    "identifier": "194502876123"
+                },
+                {
+                    "type": "ITF-14",
+                    "identifier": "00194502876123"
+                }
+            ],
+            "sizeChart": {
+                "baseSize": "13",
+                "baseType": "us m",
+                "displayOptions": [
+                    {
+                        "size": "US M 13",
+                        "type": "us m"
+                    },
+                    {
+                        "size": "UK 12",
+                        "type": "uk"
+                    },
+                    {
+                        "size": "CM 31",
+                        "type": "cm"
+                    },
+                    {
+                        "size": "KR 310",
+                        "type": "kr"
+                    },
+                    {
+                        "size": "EU 47.5",
+                        "type": "eu"
+                    },
+                    {
+                        "size": "US W 14.5",
+                        "type": "us w"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "79d4d09f-baef-4d96-a9a0-4dce4b51b1e6",
+            "hidden": false,
+            "group": null,
+            "traits": {
+                "size": "14"
+            },
+            "gtins": [
+                {
+                    "type": "ITF-14",
+                    "identifier": "00194502876130"
+                },
+                {
+                    "type": "UPC",
+                    "identifier": "194502876130"
+                },
+                {
+                    "type": "EAN-13",
+                    "identifier": "0194502876130"
+                }
+            ],
+            "sizeChart": {
+                "baseSize": "14",
+                "baseType": "us m",
+                "displayOptions": [
+                    {
+                        "size": "US M 14",
+                        "type": "us m"
+                    },
+                    {
+                        "size": "UK 13",
+                        "type": "uk"
+                    },
+                    {
+                        "size": "CM 32",
+                        "type": "cm"
+                    },
+                    {
+                        "size": "KR 320",
+                        "type": "kr"
+                    },
+                    {
+                        "size": "EU 48.5",
+                        "type": "eu"
+                    },
+                    {
+                        "size": "US W 15.5",
+                        "type": "us w"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "6bf4f6ab-b992-4915-a7bd-0dd09a762a80",
+            "hidden": false,
+            "group": null,
+            "traits": {
+                "size": "15"
+            },
+            "gtins": [
+                {
+                    "type": "ITF-14",
+                    "identifier": "00194502876147"
+                },
+                {
+                    "type": "UPC",
+                    "identifier": "194502876147"
+                },
+                {
+                    "type": "GTIN-8",
+                    "identifier": "58915134"
+                }
+            ],
+            "sizeChart": {
+                "baseSize": "15",
+                "baseType": "us m",
+                "displayOptions": [
+                    {
+                        "size": "US M 15",
+                        "type": "us m"
+                    },
+                    {
+                        "size": "UK 14",
+                        "type": "uk"
+                    },
+                    {
+                        "size": "CM 33",
+                        "type": "cm"
+                    },
+                    {
+                        "size": "KR 330",
+                        "type": "kr"
+                    },
+                    {
+                        "size": "EU 49.5",
+                        "type": "eu"
+                    },
+                    {
+                        "size": "US W 16.5",
+                        "type": "us w"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -28,7 +28,7 @@ async def fetch_url(url):
     try:
         response = await client.get(url)
         if response.status_code == 200:
-            print(f"URL {url} succeeded")
+            print(f"Fetch {url} succeeded")
             return response.text, response.status_code
         else:
             print(f"Skipping URL {url}: Status code {response.status_code}")
