@@ -1,7 +1,3 @@
 .env
 test.ipynb
-/sources/**
-sources/poizon.html 
-sources/snkr_dunk.html 
-sources/stockx_browse.html 
-sources/stockx_nike_dunk.html
+sources/**
