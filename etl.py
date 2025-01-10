@@ -7,10 +7,11 @@ from dotenv import load_dotenv
 
 load_dotenv()
 BUCKET_NAME = os.getenv("BUCKET_NAME")
-AWS_ACCESS_KEY=os.getenv("AWS_ACCESS_KEY")
-AWS_SECRET_KEY=os.getenv("AWS_SECRET_KEY")
+AWS_ACCESS_KEY = os.getenv("AWS_ACCESS_KEY")
+AWS_SECRET_KEY = os.getenv("AWS_SECRET_KEY")
+SOURCE_URL = os.getenv("SOURCE_URL")
 
-source_url = 'https://sasom-data-lake-bucket.s3.ap-southeast-1.amazonaws.com/test-data/samba.json'
+source_url = SOURCE_URL
 
 def extract_data(url) -> dict: 
     req = requests.get(url=url)
@@ -75,7 +76,7 @@ def load_to_s3(transformed_data):
 
     json_data = json.dumps(transformed_data)
 
-    object_key = 'sasom-etl-test.json'
+    object_key = 'etl-test.json'
     try:
         s3.meta.client.put_object(Bucket=BUCKET_NAME, Key=object_key, Body=json_data, ACL='public-read', ContentType='application/json')
         print(f"Data successfully uploaded to s3://{BUCKET_NAME}/{object_key}")

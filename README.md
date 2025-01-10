@@ -1,5 +1,5 @@
-# Sasom_Data_Engineer
-This test project is including in technical interview By Sasom in Data Engineer Role, the project consists of 2 section, including Scraping project and ETL project
+# Data_Engineer_Test
+This test project is including in technical interview Data Engineer test, the project consists of 2 section, including Scraping project and ETL project
 
 ## Scraping Projcet
 Scrape these 3 websites StockX, Poizon, and SNKR DUNK
@@ -31,7 +31,7 @@ Scrape these 3 websites StockX, Poizon, and SNKR DUNK
         - data/snkr_dunk_price-by-size.csv
 
 ## ETL Project
-- read data from: https://sasom-data-lake-bucket.s3.ap-southeast-1.amazonaws.com/test-data/samba.json
+- read data from: S3
 - transformed all basic product detail into product data, for example product_id, title, description, style, colorway and etc.
 - transformed size by price by matching variants_id for size and variants_id for price of the product and collect to list of dictionary
-- load transformed data to my s3: https://adeenun-data.s3.ap-southeast-1.amazonaws.com/sasom-etl-test.json
+- load transformed data to my s3: https://adeenun-data.s3.ap-southeast-1.amazonaws.com/etl-test.json
